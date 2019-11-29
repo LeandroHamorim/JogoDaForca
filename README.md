@@ -1,1 +1,1 @@
-# JogoDaForca para programadores
+# JogoDaForca
