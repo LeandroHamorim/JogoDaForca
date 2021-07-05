@@ -12,9 +12,8 @@ public class Jogo {
 	
 	void iniciar() {
 		Set<Character> letrasUsadas = new HashSet<>();
-		
 		int erros = 0;
-		
+
 		Dicionario dicionario = new Dicionario();
 		Palavra palavra = dicionario.proximaPalavra();
 		
